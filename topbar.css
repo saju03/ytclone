@@ -1,0 +1,27 @@
+.top-bar{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    top: 60px;
+    left: 245px;
+    height: 48px;
+    right: 0px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between; 
+    z-index: 1;  
+     
+    border-top: 1px;
+
+}
+.top-bar button{
+    border-radius: 20px;
+    border: none;
+    height: 30px;
+    color: rgb(62, 63, 65);
+}
+.All-button{
+    width: 40px;
+    background-color: rgb(236, 235, 235);
+    color: black;
+}

@@ -1,0 +1,220 @@
+.side-bar{
+
+    position: fixed;
+    
+    flex-direction: column;
+   
+    left: 0px;
+    top: 60px;
+    width: 245px;
+    bottom: 0px;
+    align-items: flex-start;
+    color: rgb(97, 96, 96);
+    
+
+}
+button{
+    color: rgb(49, 49, 49);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.home-button{
+    width: 245px;
+    height: 40px;
+    text-align: right;
+    padding-right: 130px;
+    
+    border:  none;
+}
+
+
+.explore-button{
+    
+    width: 245px;
+    height: 40px;
+    text-align: right;
+    padding-right: 123px;
+    
+    border: none;
+}
+.shorts-button{
+    width: 245px;
+    height: 40px;
+    text-align: right;
+    padding-right: 130px;
+    border: none;
+}
+.subscribe-button{
+    width: 245px;
+    height: 40px;
+    text-align: right;
+    padding-right: 95px;
+    border: none;
+
+}
+.library-button{
+    width: 245px;
+    height: 40px;
+    text-align: right;
+    padding-right: 130px;
+    border: none;
+}
+.history-button{
+    width: 245px;
+    height: 40px;
+    text-align: right;
+    padding-right: 130px;
+    border: none
+
+}
+.yvideos-button{
+    width: 245px;
+    height: 40px;
+    text-align: right;
+    padding-right: 105px;
+    border: none
+
+}
+.watch-later{
+    width: 245px;
+    height: 40px;
+    text-align: right;
+    padding-right: 105px;
+    border: none
+
+}
+.liked-button{
+    width: 245px;
+    height: 40px;
+    text-align: right;
+    padding-right: 95px;
+    border: none
+
+}
+.premium-button{
+    width: 245px;
+    height: 40px;
+    text-align: right;
+    padding-right: 65px;
+    border: none
+}
+.creator-button{
+    width: 245px;
+    height: 40px;
+    text-align: right;
+    padding-right: 75px;
+    border: none
+
+}
+.kids-button{
+    width: 245px;
+    height: 40px;
+    text-align: right;
+    padding-right: 95px;
+    border: none
+
+
+}
+.music-button{
+    width: 245px;
+    height: 40px;
+    text-align: right;
+    padding-right: 85px;
+    border: none
+}
+.home-logo{
+    position: fixed;
+    left: 25px;
+    width: 20px;
+    padding-right: 35px;
+    
+}
+.explore-logo{
+    position: fixed;
+    left: 25px;
+    width: 20px;
+    padding-right: 35px;
+}
+.shorts-logo{
+    position: fixed;
+    left: 25px;
+    width: 20px;
+    padding-right: 35px;
+}
+.subscription-icon{
+
+    position: fixed;
+    left: 25px;
+    width: 20px;
+    padding-right: 35px;
+
+   
+}
+.library-icon{
+    position: fixed;
+    left: 25px;
+    width: 20px;
+    padding-right: 30px;
+}
+.history-icon{
+    position: fixed;
+    left: 25px;
+    width: 20px;
+    padding-right: 30px;
+
+}
+.yvideos-icon{
+    
+    position: fixed;
+    left: 25px;
+    width: 20px;
+    padding-right: 30px;
+}
+.watch-later-icon{
+    position: fixed;
+    left: 25px;
+    width: 20px;
+    padding-right: 30px;
+}
+.liked-icon{
+    position: fixed;
+    left: 25px;
+    width: 20px;
+    padding-right: 30px;
+    
+}
+.premium-icon{
+    position: fixed;
+    left: 25px;
+    width: 20px;
+    padding-right: 30px;
+}
+.creator-icon{
+    position: fixed;
+    left: 25px;
+    width: 20px;
+    padding-right: 30px;
+}
+.kids-icon{
+    position: fixed;
+    left: 25px;
+    width: 20px;
+    padding-right: 30px;
+}
+.music-icon{
+    position: fixed;
+    left: 25px;
+    width: 20px;
+    padding-right: 30px;
+
+}
+
+
+.side-bar-text{
+    border-top:  1px;
+   padding-top: 5px;
+   margin-top: 0px;
+    text-align: center;
+    font-weight: 400;
+    background-color: rgb(233, 233, 229);
+}

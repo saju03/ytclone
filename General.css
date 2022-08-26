@@ -1,0 +1,17 @@
+p{
+    margin-top: 5px;
+    margin-bottom: 0;
+   font-family: Roboto, Arial, Helvetica, sans-serif ;
+}
+body{
+    margin: 0px;
+    padding-top: 115px;
+    background-color: rgb(255, 255, 214);
+    padding-left: 260px;
+}
+hr{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-bottom: none;
+    
+}
